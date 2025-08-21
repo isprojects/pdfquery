@@ -1,5 +1,5 @@
 v0.5.0, 2021-05-03 -- 
-0.5.2 (unreleased)
+0.5.2 (2025-08-21)
                   
 
 - Make pdfquery compatible with Python 3.11, 3.12 and 3.13
